@@ -31,12 +31,8 @@ This project validates user inputs like username, email, password, and confirm p
 
 ![Form Validator Screenshot](screenshot.png)   
 
-## License
+👨‍💻 Author
+Made with ❤ by Shaban Ansari
 
-This project is open source and available under the [MIT License](LICENSE).
-
- 
-
-Feel free to contribute and improve this project!
 
 
