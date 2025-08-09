@@ -3,6 +3,10 @@
 A simple, responsive form validation web app built with HTML, CSS, and JavaScript.  
 This project validates user inputs like username, email, password, and confirm password fields with real-time error messages.
 
+🚀 Live Demo
+
+[View Project](http://www.formvalidator.com/)
+
 ## Features
 
 - Validates empty fields  
@@ -34,4 +38,5 @@ This project is open source and available under the [MIT License](LICENSE).
  
 
 Feel free to contribute and improve this project!
+
 
