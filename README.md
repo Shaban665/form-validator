@@ -5,7 +5,7 @@ This project validates user inputs like username, email, password, and confirm p
 
 🚀 Live Demo
 
-[View Project](http://www.formvalidator.com/)
+[View Project](https://shaban665.github.io/form-validator/)
 
 ## Features
 
@@ -33,6 +33,7 @@ This project validates user inputs like username, email, password, and confirm p
 
 👨‍💻 Author
 Made with ❤ by Shaban Ansari
+
 
 
 
